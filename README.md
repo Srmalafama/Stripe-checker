@@ -1,2 +1,1 @@
-# Stripe-checker
-Credit card checker STRIPE based
+530691920410xxxx|04|2027|rnd
